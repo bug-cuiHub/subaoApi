@@ -1,0 +1,21 @@
+# Log
+runtime
+
+# image
+public/static
+
+# selenium包python截图
+public/selenium
+
+# Node的包
+public/node_modules
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+.git

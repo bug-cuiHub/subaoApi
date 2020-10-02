@@ -1,0 +1,6 @@
+1.要安装python环境
+2.安装python的selenium包
+3.安装chromedriver插件： （链接：https://www.cnblogs.com/technologylife/p/5829944.html）
+----配置环境变量的时候把python的环境变量从用户变量移到系统变量中
+3.需要Node环境，需要启动（node screen.js）
+4. 要有static/uploads/image这三个文件夹
